@@ -1,7 +1,7 @@
  // 定时随意，每天跑一遍就可以
- * cron: 0 22 * * *
- * 目前推送今日乐园币，总吃货豆和钱包余额
- * 推送 wxpush，要求 cookie 里面有 wxUid,如'unb=xxx;cookie2=xxxUSERID=xx;SID=xxx;wxUid=xx;'
+ // cron: 0 22 * * *
+ // 目前推送今日乐园币，总吃货豆和钱包余额
+ // 推送 wxpush，要求 cookie 里面有 wxUid,如'unb=xxx;cookie2=xxxUSERID=xx;SID=xxx;wxUid=xx;'
  
 
 //QQ频道【tl库】：https://pd.qq.com/s/btv4bw7av
